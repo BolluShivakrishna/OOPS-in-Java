@@ -1,4 +1,4 @@
-package com.ciq.AccessModifiers;
+package com.shivakrishna226.AccessModifiers;
 
 public class PriClass {
 	// PriStudent Class in Other Class named PriClass
