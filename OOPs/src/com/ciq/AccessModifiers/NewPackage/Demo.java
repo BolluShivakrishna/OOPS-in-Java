@@ -1,4 +1,4 @@
-package com.shivakrishna226.NewPackage;
+package com.ciq.AccessModifiers;
 
 public class Demo {
 
